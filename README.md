@@ -38,9 +38,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-1. If you're a new user, register for [Lumoz Quidditch](https://t.me/Lumoz_Quidditch_Bot/Match?startapp=inviteLD5NV&text=🧙 I'm playing the Lumoz Quidditch Match Game bot! Join me to boost our power and score rewards!
-✨ Don’t miss out—Earn a total of 50 million Lumoz points, and soon exchange them for Lumoz Tokens!
-👉 Click my invite link and team up.)
+1. If you're a new user, register for [Lumoz Quidditch](https://t.me/Lumoz_Quidditch_Bot/Match?startapp=inviteLD5NV)
 
 2. Edit `data.txt` file in the project root directory.
 
